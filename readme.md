@@ -1,10 +1,10 @@
 # Nari-Suraksha
+Women face a lot of issues in the society. From returning late night and facing security issues to harrasment calls and abusive messages on various social media handles. Women try to avoid these, but no real charge is taken against these crimes. Also in case of emergency, women need help and help needs to reach in appropriate time.
 
-##  Link for the Presentation- 
-   > #
+Thus, this web portal help the women report these calls and also call for help. It helps them monitor the latest help available and also monitor and track their current location. They can get the fastest help by calling for help and also can report any instagram/ facebook handles and call numbers to get rid of them. The frequency of the numbers harrasing them and the content can also be reported which will help the security issues to be regarded easily.
 
 ##  Link for the Video- 
-   > #
+   > # https://youtu.be/FTWWbptUi-4
 
 Nari Suraksha, Initiative to provide safety for womens.
 
