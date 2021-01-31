@@ -23,7 +23,7 @@ Nari Suraksha, Initiative to provide safety for womens.
    * Navbar containing Importent links to redirect to other pages.
 3. About Page
    * Containing what functionalities we are providing 
-   * Working on it.
+   * Get all info abut website.
 4. Profile Page
    * One of the most functionality covered page.
    * > Profile Page
@@ -33,13 +33,16 @@ Nari Suraksha, Initiative to provide safety for womens.
    * Containing all profile information like name, mail, dob,email, address, contact etc. 
    * > Sidebar of profile page Conating 
        >> * Profile pic.
-       >> * Working on it.  
-
-   * ![GitHub Logo](markdown-demo/profile.png)   
+       >> * All information.  
+  
 5. Call For Help
-   * Working on it.  
+   * Here anyone can call for help.
+   * Nearby help centers can be shown on google map.
+   * All the help centeres will be added in database and live update on map.
+   * ![GitHub Logo](markdown-demo/help.png) 
 6. Testimonial- 
    * One of the most important page of website, it presents
+   * Working on it.
      * > Represent the info about testimonials provided by user  
 7. Contact Us 
    * Can find other info related to NariSuraksha Portal.   
@@ -97,7 +100,7 @@ Nari Suraksha, Initiative to provide safety for womens.
 
 ## Php MyAdmin
 
-*  Will be added database.
+*  Added database, run sql file in database.
 
 ## Backbones of project(Contributors)
 
