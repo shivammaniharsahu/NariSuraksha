@@ -45,6 +45,7 @@ Nari Suraksha, Initiative to provide safety for womens.
    * Report Harrasment Numbers, abusive handles etc.
    * Report the frequency of the numbers.
    * The most frequent numbers will be reported to IT cell security department.
+   * Statistics displaying reported harashment call numbers, social handles.
    * ![GitHub Logo](markdown-demo/harrasment.png) 
    
 6. Testimonial- 
@@ -115,7 +116,7 @@ Nari Suraksha, Initiative to provide safety for womens.
 >| ------------- |:---------------------:|:--------------------------------------------:|:-----------------------------------------:| 
 >| 1             | Shivam Manihar Sahu   | Manage Databases- Worked on sql queries      |  https://github.com/shivammaniharsahu/    |
 >| 2             | Shashwat Awasthi      | UI/UX design of Website, Worked on frontend  |  https://github.com/ShashwatAwasthi04     |
->| 3             | Rahul Singh Kushawaha | Worked on frontend of project,database work  |  https://github.com/Rahul-skush           | 
+>| 3             | Rahul Singh           | Worked on frontend of project,database work  |  https://github.com/Rahul-skush           | 
 >| 4             | Ajay Kumar            | Worked on PHP backend, Query Processing      |  https://github.com/AJAYKR00KJ            |
 
 ---
