@@ -156,8 +156,8 @@ include "../config/dbconfig.php";
 
 
         var map = new google.maps.Map(document.getElementById('map'), {
-          center: new google.maps.LatLng(25.405754, 81.876980),
-          //center: new google.maps.LatLng(lt,ln),
+          //center: new google.maps.LatLng(25.405754, 81.876980),
+          center: new google.maps.LatLng(lt,ln),
  
           zoom: 12
         });
@@ -166,7 +166,7 @@ include "../config/dbconfig.php";
         //user marker
     let marker = new google.maps.Marker({
     map: map,
-    position: {lat: 25.405754, lng: 81.876980},
+    position: {lat: lt, lng: ln},
     icon: {
       url: "http://maps.google.com/mapfiles/ms/icons/green-dot.png"
     }

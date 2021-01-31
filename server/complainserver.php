@@ -51,9 +51,7 @@ if(isset($_POST['harash_contact']))
 <?php
  
  
-
- $result = mysqli_query($conn, "SELECT DISTINCT `facebook_handle` FROM spammers");
-
+$result = mysqli_query($conn, "SELECT DISTINCT `facebook_handle` FROM spammers");
  $facebooknum = mysqli_num_rows($result);
  $result = mysqli_query($conn, "SELECT DISTINCT `insta_handle` FROM spammers");
  $instagrannum = mysqli_num_rows($result);
@@ -62,7 +60,6 @@ if(isset($_POST['harash_contact']))
  $phonepercent = $phonenum/($phonenum + $instagrannum + $facebooknum);
  $instapercent = $instagrannum/($phonenum + $instagrannum + $facebooknum);
  $facepercent = $facebooknum/($phonenum + $instagrannum + $facebooknum);
-
  $dataPoints = array( 
      array("label"=>"facebook", "y"=>$facepercent*100),
      array("label"=>"instagram", "y"=>$instapercent*100),

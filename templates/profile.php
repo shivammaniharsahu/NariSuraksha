@@ -58,11 +58,16 @@
 
       <nav class="nav-menu d-none d-lg-block">
         <ul>
-          <li class="active"><a href="landing.php">Home</a></li>
+        <li class="active"><a href="landing.php">Home</a></li>
           <li><a href="profile.php">Go to Profile</a></li>
           <li><a href="help.php">Call for help</a></li>
-          <li><a href="team.php">Team of warriors</a></li>
-          <li><a href="report.php">Report a number</a></li>
+          <li><a href="#">Team of warriors</a></li>
+          <li class="drop-down"><a href="">Report Harrasments</a>
+                  <ul>
+                    <li><a href="report.php">Report Mobile numbers</a></li>
+                    <li><a href="stats.php">Show statistics of reported calls</a></li> 
+                  </ul>
+        </li> 
           <li><a href="testimonial.php">Message from users</a></li>
 
         </ul>
